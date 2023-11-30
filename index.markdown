@@ -6,14 +6,18 @@ profile_picture:
 ---
 
 <p align="justify">
-Hello! I am currently pursuing my Master's degree in Computer Science at [HSE University](https://www.hse.ru/en/). I am also a researcher at [BayesGroup](https://bayesgroup.ru/), supervised by [Dmitry Vetrov](https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en). Currently I am working on Generative Flow Networks (GFlowNets) and their connections to Reinforcement Learning. I've also previously worked on Neural Radiance Fields and text-to-3D generative models with [Kirill Struminsky](https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en), as well as worked on Domain Generalization for my Bachelor's thesis. Generally speaking I am interested in probabilistic methods, generative modeling and computer vision.
+Hello! I am currently pursuing my Master's degree in Computer Science at <a href="https://www.hse.ru/en/">HSE University</a>. I am also a researcher at <a href="https://bayesgroup.ru/">BayesGroup</a>, supervised by <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Dmitry Vetrov</a>. Currently I am working on Generative Flow Networks (GFlowNets) and their connections to Reinforcement Learning. I've also previously worked on Neural Radiance Fields and text-to-3D generative models with <a href="[https://www.hse.ru/en/](https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en)">Kirill Struminsky</a>, as well as worked on Domain Generalization for my Bachelor's thesis. Generally speaking I am interested in probabilistic methods, generative modeling and computer vision.
 </p>
 
-<span style="color:Darkorange">I am looking for a research internship in Summer / Fall 2024. Please feel free to contact me!</span>
+<p align="justify">
+<span style="color:brown">I am looking for a research internship in Summer / Fall 2024. Please feel free to contact me!</span>
+</p>
+
+</br>
 
 ## Publications:
 **Generative Flow Networks as Entropy-Regularized RL** \
-Daniil Tiapkin*, <ins>Nikita Morozov</ins>*, Alexey Naumov, Dmitry Vetrov \
+Daniil Tiapkin&#42;, <ins>Nikita Morozov</ins>&#42;, Alexey Naumov, Dmitry Vetrov \
 [arXiv](https://arxiv.org/abs/2310.12934) / [code](https://github.com/d-tiapkin/gflownet-rl) \
 Preprint
 
