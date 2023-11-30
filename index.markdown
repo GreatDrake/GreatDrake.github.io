@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p align="justify">
-Hello! I am a 2nd year MSc student in Computer Science at <a href="https://www.hse.ru/en/">HSE University</a>. I am also a researcher at <a href="https://bayesgroup.ru/">BayesGroup</a> at HSE University, supervised by <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Dmitry Vetrov</a>. Currently I am working on Generative Flow Networks (GFlowNets) and their connections to Reinforcement Learning. I've also previously worked on Neural Radiance Fields and text-to-3D generative models with <a href="https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en">Kirill Struminsky</a>, as well as worked on Domain Generalization for my Bachelor's thesis. Generally speaking I am interested in probabilistic methods, generative modeling and computer vision.
+Hello! I am a 2nd year MSc student in Computer Science at <a href="https://www.hse.ru/en/">HSE University</a>. I am also a researcher at <a href="https://bayesgroup.ru/">BayesGroup</a> at HSE University, supervised by <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Dmitry Vetrov</a>. Currently I am working on Generative Flow Networks (GFlowNets) and their connections to Reinforcement Learning. I have also previously worked on Neural Radiance Fields and text-to-3D generative models with <a href="https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en">Kirill Struminsky</a>, as well as worked on Domain Generalization for my Bachelor's thesis. Generally speaking the topics of my interest include probabilistic methods, generative modeling and computer vision.
 </p>
 
 <p align="justify">
