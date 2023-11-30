@@ -19,18 +19,36 @@ Hello! I am a 2nd year MSc student in Computer Science at <a href="https://www.h
 
 &nbsp;
 
-## Publications:
-**Generative Flow Networks as Entropy-Regularized RL** \
+## Publications
+* **Generative Flow Networks as Entropy-Regularized RL** \
 Daniil Tiapkin&#42;, <ins>Nikita Morozov</ins>&#42;, Alexey Naumov, Dmitry Vetrov \
 [arXiv](https://arxiv.org/abs/2310.12934) / [code](https://github.com/d-tiapkin/gflownet-rl) \
 Preprint
 
-**Weight Averaging Improves Knowledge Distillation under Domain Shift** \
+* **Weight Averaging Improves Knowledge Distillation under Domain Shift** \
 Valeriy Berezovskiy, <ins>Nikita Morozov</ins> \
 [arXiv](https://arxiv.org/abs/2309.11446) / [code](https://github.com/vorobeevich/distillation-in-dg) \
 ICCV 2023 Workshop on Out-of-Distribution Generalization in Computer Vision
 
-**Differentiable Rendering with Reparameterized Volume Sampling** \
+* **Differentiable Rendering with Reparameterized Volume Sampling** \
 <ins>Nikita Morozov</ins>, Denis Rakitin, Oleg Desheulin, Dmitry Vetrov, Kirill Struminsky \
 [arXiv](https://arxiv.org/abs/2302.10970) / [code](https://github.com/GreatDrake/reparameterized-volume-sampling) \
 ICLR 2023 Workshop on Neural Fields across Fields
+
+## Teaching
+
+Teaching Fellow:
+
+* Machine Learning, HSE University. Present.
+* Introduction to Deep Learning, HSE University. Present.
+
+Teaching Assistant:
+
+* Machine Learning, HSE University. 2021.
+* Algebra, HSE University. 2020.
+* Algorithms and Data Structures, HSE University. 2019 – 2020.
+
+## Awards
+
+* Ilya Segalovich Scholarship. 2021, 2023. \
+HSE University & Yandex scholarship for outstanding achievements in study and research, highly competitive.
