@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Nikita Morozov
+email: greatdraken@gmail.com
 domain: greatdrake.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -41,6 +41,14 @@ header:
     - name: Home
       slug: /     # <-- index.markdown
     - name: About  # <-- about.markdown
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: greatdraken@gmail.com
+      link: mailto:greatdraken@gmail.com
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
