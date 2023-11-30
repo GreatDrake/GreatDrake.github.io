@@ -13,6 +13,8 @@ Hello! I am currently pursuing my Master's degree in Computer Science at <a href
 <span style="color:brown">I am looking for a research internship in Summer / Fall 2024. Please feel free to contact me!</span>
 </p>
 
+Email | CV | GitHub | Google Scholar | HSE webpage
+
 &nbsp;
 
 ## Publications:
