@@ -13,7 +13,9 @@ Hello! I am currently pursuing my Master's degree in Computer Science at <a href
 <span style="color:brown">I am looking for a research internship in Summer / Fall 2024. Please feel free to contact me!</span>
 </p>
 
-Email | CV | GitHub | Google Scholar | HSE webpage
+<p style="text-align: center;"> 
+<a href="mailto:greatdraken@gmail.com">Email</a> / <a href="assets/CV/CV.pdf">CV</a> / <a href="https://github.com/GreatDrake">Github</a> / <a href="https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.hse.ru/en/org/persons/225560347">HSE webpage</a>
+</p>
 
 &nbsp;
 
