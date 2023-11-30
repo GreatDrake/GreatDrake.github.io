@@ -47,9 +47,9 @@ footer:
     - name: Email
       value: greatdraken@gmail.com
       link: mailto:greatdraken@gmail.com
-    follow:
-     - name: GitHub
-       link: https://github.com/GreatDrake
+  follow:
+    - name: GitHub
+      link: https://github.com/GreatDrake
      #- name: Scholar
      #  link: https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en 
 
