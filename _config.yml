@@ -35,6 +35,13 @@ remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
 
+
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.markdown
+    - name: About  # <-- about.markdown
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
