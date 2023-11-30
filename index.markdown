@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
+layout: home
+profile_picture:
+  src: /assets/img/profile-pic.jpg
+  alt: website picture
 ---
 
 Hello! I am MSc student
