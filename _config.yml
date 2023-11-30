@@ -45,13 +45,13 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: greatdraken@gmail.com
+      value: greatdraken[at]gmail.com
       link: mailto:greatdraken@gmail.com
   follow:
     - name: GitHub
       link: https://github.com/GreatDrake
-    - name: Scholar
-      link: https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en
+    #- name: Scholar
+    #  link: https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en
      #- name: Scholar
      #  link: https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en 
 
