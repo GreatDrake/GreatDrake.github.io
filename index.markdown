@@ -5,9 +5,11 @@ profile_picture:
   alt: website picture
 ---
 
+<p align="justify">
 Hello! I am currently pursuing my Master's degree in Computer Science at [HSE University](https://www.hse.ru/en/). I am also a researcher at [BayesGroup](https://bayesgroup.ru/), supervised by [Dmitry Vetrov](https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en). Currently I am working on Generative Flow Networks (GFlowNets) and their connections to Reinforcement Learning. I've also previously worked on Neural Radiance Fields and text-to-3D generative models with [Kirill Struminsky](https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en), as well as worked on Domain Generalization for my Bachelor's thesis. Generally speaking I am interested in probabilistic methods, generative modeling and computer vision.
+</p>
 
-<span style="color:orange">I am looking for a research internship in Summer / Fall 2024. Please feel free to contact me!</span>
+<span style="color:Darkorange">I am looking for a research internship in Summer / Fall 2024. Please feel free to contact me!</span>
 
 ## Publications:
 **Generative Flow Networks as Entropy-Regularized RL** \
