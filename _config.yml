@@ -36,10 +36,10 @@ plugins:
   - jekyll-feed
 
 
-header:
-  pages:
-    - name: Home
-      slug: /     # <-- index.markdown
+#header:
+#  pages:
+#    - name: Home
+#      slug: /     # <-- index.markdown
 
 footer:
   show_powered_by: true
