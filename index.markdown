@@ -52,5 +52,5 @@ Teaching Assistant:
 
 * Ilya Segalovich Scholarship. 2021, 2023. \
 HSE University & Yandex scholarship for outstanding achievements in study and research, highly competitive.
-* International Collegiate Programming Contest, Northern Eurasia Finals. 2022. \
-Third award.
+* International Collegiate Programming Contest, 2023/2024. \
+21/276 place in Northern Eurasia Finals, advanced to World Finals.
