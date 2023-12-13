@@ -39,18 +39,18 @@ ICLR 2023 Workshop on [Neural Fields](https://sites.google.com/view/neural-field
 
 Teaching Fellow:
 
-* Machine Learning, HSE University. Present.
-* Introduction to Deep Learning, HSE University. Present.
+* Machine Learning, HSE University. Present
+* Introduction to Deep Learning, HSE University. Present
 
 Teaching Assistant:
 
-* Machine Learning, HSE University. 2021.
-* Algebra, HSE University. 2020.
-* Algorithms and Data Structures, HSE University. 2019 – 2020.
+* Machine Learning, HSE University. 2021
+* Algebra, HSE University. 2020
+* Algorithms and Data Structures, HSE University. 2019, 2020
 
 ## Awards
 
-* Ilya Segalovich Scholarship. 2021, 2023. \
-HSE University & Yandex scholarship for outstanding achievements in study and research, highly competitive.
-* International Collegiate Programming Contest, 2023/2024. \
-21/276 place in Northern Eurasia Finals, advanced to World Finals.
+* Ilya Segalovich Scholarship. 2021, 2023 \
+HSE University & Yandex scholarship for outstanding achievements in study and research
+* International Collegiate Programming Contest (ICPC). 2023/2024 \
+21/276 place in Northern Eurasia Finals, advanced to World Finals
