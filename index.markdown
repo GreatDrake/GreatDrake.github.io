@@ -50,7 +50,7 @@ Teaching Assistant:
 
 ## Awards
 
+* International Collegiate Programming Contest (ICPC), 2023/2024 \
+21/276 place in Northern Eurasia Finals, advanced to World Finals
 * Ilya Segalovich Scholarship. 2021, 2023 \
 HSE University & Yandex scholarship for outstanding achievements in study and research
-* International Collegiate Programming Contest (ICPC). 2023/2024 \
-21/276 place in Northern Eurasia Finals, advanced to World Finals
