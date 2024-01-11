@@ -9,10 +9,6 @@ profile_picture:
 Hello! I am a 2nd year MSc student in Computer Science at <a href="https://www.hse.ru/en/">HSE University</a>, actively involved in research at <a href="https://bayesgroup.ru/">Bayesian Methods Research Group</a> under the supervision of <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Prof. Dmitry Vetrov</a>. Currently, my research is focused on Generative Flow Networks (GFlowNets) and their connections to Reinforcement Learning. I am working towards creating new efficient GFlowNet training algorithms, as well as expanding the theoretical understanding of these models. I have also previously worked on Neural Radiance Fields and text-to-3D generative models with <a href="https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en">Kirill Struminsky</a>, as well as worked on Domain Generalization for my Bachelor's thesis. Generally speaking, my research interests include generative modeling and probabilistic methods in deep learning.
 </p>
 
-<p align="justify">
-<span style="color:brown">I am looking for a research internship in Summer / Fall 2024. Please feel free to contact me!</span>
-</p>
-
 <p style="text-align: center;"> 
 <a href="mailto:greatdraken@gmail.com">Email</a> / <a href="assets/CV/CV.pdf">CV</a> / <a href="https://github.com/GreatDrake">GitHub</a> / <a href="https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.hse.ru/en/org/persons/225560347">HSE webpage</a>
 </p>
