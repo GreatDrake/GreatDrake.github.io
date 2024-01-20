@@ -25,7 +25,7 @@ AISTATS 2024 <span style="color:brown">(Oral)</span>
 <ins>Nikita Morozov</ins>, Denis Rakitin, Oleg Desheulin, Dmitry Vetrov, Kirill Struminsky \
 [arXiv](https://arxiv.org/abs/2302.10970) / [code](https://github.com/GreatDrake/reparameterized-volume-sampling) \
 AISTATS 2024 \
-Short appears in ICLR 2023 Workshop on [Neural Fields](https://sites.google.com/view/neural-fields)
+Short version appears in ICLR 2023 Workshop on [Neural Fields](https://sites.google.com/view/neural-fields)
 
 * **Weight Averaging Improves Knowledge Distillation under Domain Shift** \
 Valeriy Berezovskiy, <ins>Nikita Morozov</ins> \
