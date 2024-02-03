@@ -36,18 +36,23 @@ ICCV 2023 Workshop on [Out-of-Distribution Generalization in Computer Vision](ht
 
 Teaching Fellow:
 
-* Machine Learning, HSE University. Present
-* Introduction to Deep Learning, HSE University. Present
+* Machine Learning 1, HSE University. Fall 2022, 2023
+* Machine Learning 2, HSE University. Spring 2023, 2024
+* Introduction to Deep Learning, HSE University. Fall 2022, 2023
 
 Teaching Assistant:
 
-* Machine Learning, HSE University. 2021
-* Algebra, HSE University. 2020
+* Machine Learning 1, HSE University. Fall 2021
+* Algebra, HSE University. Spring 2020
 * Algorithms and Data Structures, HSE University. 2019, 2020
 
 ## Awards
 
-* International Collegiate Programming Contest (ICPC), 2023/2024 \
+* **International Collegiate Programming Contest (ICPC).** 2023/2024 \
 21/276 place in Northern Eurasia Finals, advanced to World Finals
-* Ilya Segalovich Scholarship. 2021, 2023 \
+* **Ilya Segalovich Scholarship.** 2021, 2023 \
 HSE University & Yandex scholarship for outstanding achievements in study and research
+* **HSE Student Research Paper Competition.** 2022 \
+Awardee in computer science category
+* **HSE University Bachelor's Degree with Distinction.** 2022 
+
