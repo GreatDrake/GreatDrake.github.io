@@ -34,7 +34,7 @@ Short version appeared in ICLR 2023 Workshop on [Neural Fields](https://sites.go
 * **Weight Averaging Improves Knowledge Distillation under Domain Shift** \
 Valeriy Berezovskiy, <ins>Nikita Morozov</ins> \
 [arXiv](https://arxiv.org/abs/2309.11446) / [code](https://github.com/vorobeevich/distillation-in-dg) \
-ICCV 2023 Workshop on [Out-of-Distribution Generalization in Computer Vision](https://www.ood-cv.org/index.html)
+ICCV 2023 Workshop on [Out-of-Distribution Generalization in Computer Vision](https://www.ood-cv.org/2023/index.html)
 
 ## Teaching
 
