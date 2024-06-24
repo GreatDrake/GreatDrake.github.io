@@ -23,7 +23,7 @@ I have a background in competitive programming, you can find me <a href="https:/
 * **Improving GFlowNets with Monte Carlo Tree Search** \
 <ins>Nikita Morozov</ins>, Daniil Tiapkin, Sergey Samsonov, Alexey Naumov, Dmitry Vetrov \
 [arXiv](https://arxiv.org/abs/2406.13655) / code TBA \
-ICML 2024 [SPIGM Workshop](https://spigmworkshop2024.github.io/)
+ICML 2024 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2024.github.io/)
 
 * **Generative Flow Networks as Entropy-Regularized RL** \
 Daniil Tiapkin&#42;, <ins>Nikita Morozov</ins>&#42;, Alexey Naumov, Dmitry Vetrov \
