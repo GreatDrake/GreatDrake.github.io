@@ -12,7 +12,7 @@ Right now I am doing a research internship at <a href="https://brbiclab.epfl.ch/
   
 I have also previously worked on novel view synthesis and text-to-3D generative models with <a href="https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en">Kirill Struminsky</a>. Prior to joining Bayesian Methods Research Group, I was a software engineer intern at <a href="https://yandex.com/company">Yandex</a>, where I worked on refining <a href="https://ytsaurus.tech/">YTsaurus</a> platform. <br /> <br />
 
-I have a background in competitive programming, you can find me <a href="https://codeforces.com/profile/madn">on codeforces</a>. Next September I will be participating in 2024 ICPC World Finals.
+I have a background in competitive programming, you can find me <a href="https://codeforces.com/profile/madn">on codeforces</a>. Next September I will be participating in <a href="https://worldfinals.icpc.global/">2024 ICPC World Finals</a>.
 </p>
 
 <p style="text-align: center;"> 
