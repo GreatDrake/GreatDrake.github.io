@@ -6,7 +6,9 @@ profile_picture:
 ---
 
 <p align="justify">
-Hello, I am Nikita! In Fall 2024 I will start my PhD under the supervision of Prof. <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Dmitry Vetrov</a> at <a href="https://www.hse.ru/en/">HSE University</a>, where I have been actively involved in research at <a href="https://bayesgroup.ru/">Bayesian Methods Research Group</a>. My research is focused on Generative Flow Networks (GFlowNets) and their connections to Reinforcement Learning. I am working towards creating new efficient GFlowNet training algorithms, as well as expanding the theoretical understanding of these models. Generally speaking, my research interests include generative modeling and probabilistic methods in deep learning. Right now I am doing a research internship at <a href="https://brbiclab.epfl.ch/">EPFL MLBIO</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=ltxmeroAAAAJ&hl=en">Maria Brbic</a>. <br /> <br />
+Hello, I am Nikita! In Fall 2024 I will start my PhD under the supervision of Prof. <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Dmitry Vetrov</a> at <a href="https://www.hse.ru/en/">HSE University</a>, where I have been actively involved in research at <a href="https://bayesgroup.ru/">Bayesian Methods Research Group</a>. My research is focused on Generative Flow Networks (GFlowNets) and their connections to Reinforcement Learning. I am working towards creating new efficient GFlowNet training algorithms, as well as expanding the theoretical understanding of these models. Generally speaking, my research interests include generative modeling and probabilistic methods in deep learning. <br /> <br />
+  
+Right now I am doing a research internship at <a href="https://brbiclab.epfl.ch/">EPFL MLBIO</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=ltxmeroAAAAJ&hl=en">Maria Brbic</a>, where I am working with <a href="https://yistyu.github.io/">Yist Yu</a> on equivariant diffusion models for cell data.  <br /> <br />
   
 I have also previously worked on novel view synthesis and text-to-3D generative models with <a href="https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en">Kirill Struminsky</a>. Prior to joining Bayesian Methods Research Group, I was a software engineer intern at <a href="https://yandex.com/company">Yandex</a>, where I worked on refining <a href="https://ytsaurus.tech/">YTsaurus</a> platform. <br /> <br />
 
@@ -14,7 +16,7 @@ I have a background in competitive programming, you can find me <a href="https:/
 </p>
 
 <p style="text-align: center;"> 
-<a href="mailto:greatdraken@gmail.com">Email</a> / <a href="assets/CV/CV.pdf">CV</a> / <a href="https://github.com/GreatDrake">GitHub</a> / <a href="https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.hse.ru/en/org/persons/225560347">HSE webpage</a>
+<a href="mailto:greatdraken@gmail.com">Email</a> / <a href="assets/CV/CV.pdf">CV (Last update: Feb 2024)</a> / <a href="https://github.com/GreatDrake">GitHub</a> / <a href="https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.hse.ru/en/org/persons/225560347">HSE webpage</a>
 </p>
 
 &nbsp;
