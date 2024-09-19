@@ -10,7 +10,7 @@ Hello, I am Nikita! In Fall 2024 I will start my PhD under the supervision of Pr
   
 I did a research internship at <a href="https://brbiclab.epfl.ch/">EPFL MLBIO</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=ltxmeroAAAAJ&hl=en">Maria Brbic</a>, where I worked with <a href="https://yistyu.github.io/">Yist Yu</a> on equivariant diffusion models for cell data. I have also previously worked on novel view synthesis and text-to-3D generative models with <a href="https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en">Kirill Struminsky</a>. Prior to joining Bayesian Methods Research Group, I was a software engineer intern at <a href="https://yandex.com/company">Yandex</a>, where I worked on refining <a href="https://ytsaurus.tech/">YTsaurus</a> platform. <br /> <br />
 
-I have a background in competitive programming, you can find me <a href="https://codeforces.com/profile/madn">on codeforces</a>. Next September I will be participating in <a href="https://worldfinals.icpc.global/">2024 ICPC World Finals</a>.
+I have a background in competitive programming, I participated in <a href="https://worldfinals.icpc.global/">2024 ICPC World Finals</a> and you can find me <a href="https://codeforces.com/profile/madn">on codeforces</a>. 
 </p>
 
 <p style="text-align: center;"> 
