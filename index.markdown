@@ -40,28 +40,3 @@ Short version appeared in ICLR 2023 [Workshop on Neural Fields](https://sites.go
 Valeriy Berezovskiy, <ins>Nikita Morozov</ins> \
 [arXiv](https://arxiv.org/abs/2309.11446) / [code](https://github.com/vorobeevich/distillation-in-dg) \
 ICCV 2023 [Workshop on Out-of-Distribution Generalization in Computer Vision](https://www.ood-cv.org/2023/index.html)
-
-## Teaching
-
-Teaching Fellow:
-
-* Machine Learning 1, HSE University. Fall 2022, 2023
-* Machine Learning 2, HSE University. Spring 2023, 2024
-* Introduction to Deep Learning, HSE University. Fall 2022, 2023
-
-Teaching Assistant:
-
-* Machine Learning 1, HSE University. Fall 2021
-* Algebra, HSE University. Spring 2020
-* Algorithms and Data Structures, HSE University. 2019, 2020
-
-## Awards
-
-* **International Collegiate Programming Contest (ICPC).** 2023/2024 \
-21/276 place in Northern Eurasia Finals, advanced to World Finals
-* **Ilya Segalovich Scholarship.** 2021, 2023 \
-HSE University & Yandex scholarship for outstanding achievements in study and research
-* **HSE Student Research Paper Competition.** 2022 \
-Awardee in computer science category
-* **HSE University Bachelor's Degree with Distinction.** 2022 
-
