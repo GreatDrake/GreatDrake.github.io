@@ -41,10 +41,10 @@ plugins:
 
 footer:
   show_powered_by: true
-  contact:
-    - name: Email
-      value: greatdraken[at]gmail.com
-      link: mailto:greatdraken@gmail.com
+  #contact:
+  #  - name: Email
+  #    value: greatdraken[at]gmail.com
+  #    link: mailto:greatdraken@gmail.com
   follow:
     - name: GitHub
       link: https://github.com/GreatDrake
