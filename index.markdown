@@ -20,10 +20,6 @@ I have a background in competitive programming, I participated in <a href="https
 &nbsp;
 
 ## Publications
-* **Generating complex tissue structures from gene expressions with LUNA** \
-Tingyang Yu, Chanakya Ekbote, <ins>Nikita Morozov</ins>, Stéphane d’Ascoli, Jiashuo Fan, Pascal Frossard, Maria Brbić \
-bioRxiv TBA / code TBA \
-Preprint 2024
 
 * **Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Sergey Samsonov, Daniil Tiapkin \
