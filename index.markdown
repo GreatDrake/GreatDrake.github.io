@@ -19,6 +19,7 @@ I have a background in competitive programming, I participated in <a href="https
 
 &nbsp;
 
+
 ## Publications
 
 * **Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization** \
