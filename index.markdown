@@ -24,11 +24,11 @@ I have a background in competitive programming, I participated in <a href="https
 * **Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Sergey Samsonov, Daniil Tiapkin \
 [arXiv](https://arxiv.org/abs/2410.15474) / [code](https://github.com/tgritsaev/gflownet-tlm) \
-Preprint 2024
+ICLR 2025
 
 * **Improving GFlowNets with Monte Carlo Tree Search** \
 <ins>Nikita Morozov</ins>, Daniil Tiapkin, Sergey Samsonov, Alexey Naumov, Dmitry Vetrov \
-[arXiv](https://arxiv.org/abs/2406.13655) / code TBA \
+[arXiv](https://arxiv.org/abs/2406.13655) \
 ICML 2024 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2024.github.io/)
 
 * **Generative Flow Networks as Entropy-Regularized RL** \
