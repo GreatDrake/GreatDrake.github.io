@@ -22,6 +22,11 @@ I have a background in competitive programming, I participated in <a href="https
 
 ## Publications
 
+* **Revisiting Non-Acyclic GFlowNets in Discrete Environments** \
+<ins>Nikita Morozov</ins>&#42;, Ian Maksimov&#42;, Daniil Tiapkin, Sergey Samsonov \
+[arXiv](https://arxiv.org/abs/2502.07735) / [code](https://github.com/GreatDrake/non-acyclic-gfn) \
+Preprint 2025
+
 * **Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Sergey Samsonov, Daniil Tiapkin \
 [arXiv](https://arxiv.org/abs/2410.15474) / [code](https://github.com/tgritsaev/gflownet-tlm) \
