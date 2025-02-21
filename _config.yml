@@ -24,7 +24,12 @@ footer:
   #    value: greatdraken[at]gmail.com
   #    link: mailto:greatdraken@gmail.com
   follow:
-    - name: GitHub
+    - type: twitter
+      name: Twitter
+      link: https://x.com/nvimorozov
+      username: "@nvimorozov"
+    - type: github
+      name: GitHub
       link: https://github.com/GreatDrake
     #- name: Scholar
     #  link: https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en
