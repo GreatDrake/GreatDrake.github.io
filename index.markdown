@@ -25,7 +25,7 @@ I have a background in competitive programming, I participated in <a href="https
 * **Revisiting Non-Acyclic GFlowNets in Discrete Environments** \
 <ins>Nikita Morozov</ins>&#42;, Ian Maksimov&#42;, Daniil Tiapkin, Sergey Samsonov \
 [arXiv](https://arxiv.org/abs/2502.07735) / [code](https://github.com/GreatDrake/non-acyclic-gfn) \
-Preprint 2025
+ICML 2025
 
 * **Tissue reassembly with generative AI** \
 Tingyang Yu, Chanakya Ekbote, <ins>Nikita Morozov</ins>, Jiashuo Fan, Pascal Frossard, Stéphane d'Ascoli, Maria Brbić \
