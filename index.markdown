@@ -24,7 +24,7 @@ I have a background in competitive programming, I participated in <a href="https
 
 * **Adaptive Destruction Processes for Diffusion Samplers** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Kirill Tamogashev, Daniil Tiapkin, Sergey Samsonov, Alexey Naumov, Dmitry Vetrov, Nikolay Malkin \
-arXiv TBA / code TBA \
+[arXiv](https://arxiv.org/abs/2506.01541) / code TBA \
 Preprint 2025
 
 * **Revisiting Non-Acyclic GFlowNets in Discrete Environments** \
