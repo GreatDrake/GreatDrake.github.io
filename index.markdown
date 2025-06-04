@@ -32,7 +32,7 @@ Preprint 2025
 [arXiv](https://arxiv.org/abs/2502.07735) / [code](https://github.com/GreatDrake/non-acyclic-gfn) \
 ICML 2025
 
-* **Tissue reassembly with generative AI** \
+* **Tissue Reassembly with Generative AI** \
 Tingyang Yu, Chanakya Ekbote, <ins>Nikita Morozov</ins>, Jiashuo Fan, Pascal Frossard, Stéphane d'Ascoli, Maria Brbić \
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.13.638045) / [project](https://brbiclab.epfl.ch/projects/LUNA/) / [code](https://github.com/mlbio-epfl/LUNA) \
 Preprint 2025
