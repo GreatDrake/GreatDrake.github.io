@@ -35,7 +35,7 @@ ICML 2025
 * **Tissue Reassembly with Generative AI** \
 Tingyang Yu, Chanakya Ekbote, <ins>Nikita Morozov</ins>, Jiashuo Fan, Pascal Frossard, Stéphane d'Ascoli, Maria Brbić \
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.13.638045) / [project](https://brbiclab.epfl.ch/projects/LUNA/) / [code](https://github.com/mlbio-epfl/LUNA) \
-Preprint 2025
+Preprint, ICML 2025 [Workshop on Generative AI and Biology](https://genbio-workshop.github.io/2025/) <span style="color:brown">(Spotlight)</span>
 
 * **Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Sergey Samsonov, Daniil Tiapkin \
