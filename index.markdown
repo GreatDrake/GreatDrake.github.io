@@ -25,7 +25,7 @@ I have a background in competitive programming, I participated in <a href="https
 * **Adaptive Destruction Processes for Diffusion Samplers** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Kirill Tamogashev, Daniil Tiapkin, Sergey Samsonov, Alexey Naumov, Dmitry Vetrov, Nikolay Malkin \
 [arXiv](https://arxiv.org/abs/2506.01541) / code TBA \
-Preprint 2025
+NeurIPS 2025 [Workshop on Frontiers in Probabilistic Inference](https://fpineurips.framer.website/)
 
 * **Revisiting Non-Acyclic GFlowNets in Discrete Environments** \
 <ins>Nikita Morozov</ins>&#42;, Ian Maksimov&#42;, Daniil Tiapkin, Sergey Samsonov \
@@ -35,7 +35,7 @@ ICML 2025
 * **Tissue Reassembly with Generative AI** \
 Tingyang Yu, Chanakya Ekbote, <ins>Nikita Morozov</ins>, Jiashuo Fan, Pascal Frossard, Stéphane d'Ascoli, Maria Brbić \
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.13.638045) / [project](https://brbiclab.epfl.ch/projects/LUNA/) / [code](https://github.com/mlbio-epfl/LUNA) \
-Preprint, ICML 2025 [Workshop on Generative AI and Biology](https://genbio-workshop.github.io/2025/) <span style="color:brown">(Spotlight)</span>
+ICML 2025 [Workshop on Generative AI and Biology](https://genbio-workshop.github.io/2025/) <span style="color:brown">(Spotlight)</span>
 
 * **Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Sergey Samsonov, Daniil Tiapkin \
