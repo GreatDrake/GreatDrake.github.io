@@ -14,7 +14,7 @@ I have a background in competitive programming, I participated in <a href="https
 </p>
 
 <p style="text-align: center;"> 
-<a href="mailto:greatdraken@gmail.com">Email</a> / <a href="assets/CV/CV.pdf">CV (Last update: June 2025)</a> / <a href="https://github.com/GreatDrake">GitHub</a> / <a href="https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en">Google Scholar</a> / <a href="https://openreview.net/profile?id=~Nikita_Morozov1">OpenReview</a> / <a href="https://www.hse.ru/en/org/persons/225560347">HSE webpage</a> / <a href="https://x.com/nvimorozov">Twitter</a>
+<a href="mailto:greatdraken@gmail.com">Email</a> / <a href="assets/CV/CV.pdf">CV (Last update: October 2025)</a> / <a href="https://github.com/GreatDrake">GitHub</a> / <a href="https://scholar.google.com/citations?user=00WbaisAAAAJ&hl=en">Google Scholar</a> / <a href="https://openreview.net/profile?id=~Nikita_Morozov1">OpenReview</a> / <a href="https://www.hse.ru/en/org/persons/225560347">HSE webpage</a> / <a href="https://x.com/nvimorozov">Twitter</a>
 </p>
 
 &nbsp;
