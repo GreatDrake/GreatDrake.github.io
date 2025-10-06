@@ -25,7 +25,7 @@ I have a background in competitive programming, I participated in <a href="https
 * **Adaptive Destruction Processes for Diffusion Samplers** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Kirill Tamogashev, Daniil Tiapkin, Sergey Samsonov, Alexey Naumov, Dmitry Vetrov, Nikolay Malkin \
 [arXiv](https://arxiv.org/abs/2506.01541) / code TBA \
-NeurIPS 2025 [Workshop on Frontiers in Probabilistic Inference](https://fpineurips.framer.website/)
+NeurIPS 2025 [Workshop on Frontiers in Probabilistic Inference](https://fpineurips.framer.website/) <span style="color:brown">(Oral)</span>
 
 * **Revisiting Non-Acyclic GFlowNets in Discrete Environments** \
 <ins>Nikita Morozov</ins>&#42;, Ian Maksimov&#42;, Daniil Tiapkin, Sergey Samsonov \
