@@ -10,7 +10,10 @@ Hello, I am Nikita! I am a first-year PhD student at <a href="https://www.hse.ru
   
 I did a research internship at <a href="https://brbiclab.epfl.ch/">EPFL MLBIO</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=ltxmeroAAAAJ&hl=en">Maria Brbić</a>, where I worked with <a href="https://yistyu.github.io/">Yist Yu</a> on geometric diffusion models for single-cell data. I have also previously worked on novel view synthesis and text-to-3D generative models with <a href="https://scholar.google.com/citations?user=q69zIO0AAAAJ&hl=en">Kirill Struminsky</a>. Prior to joining Bayesian Methods Research Group, I was a software engineer intern at <a href="https://yandex.com/company">Yandex</a>, where I worked on refining <a href="https://github.com/ytsaurus/ytsaurus">YTsaurus</a> platform. <br /> <br />
 
-I have a background in competitive programming, I participated in <a href="https://worldfinals.icpc.global/">2024 ICPC World Finals</a> and you can find me <a href="https://codeforces.com/profile/madn">on codeforces</a>. 
+I have a background in competitive programming, I participated in <a href="https://worldfinals.icpc.global/">2024 ICPC World Finals</a> and you can find me <a href="https://codeforces.com/profile/madn">on codeforces</a>. <br /> <br />
+
+<span style="color:brown"> I am looking for a research internship in 2026, please feel free to reach out to me! </span>
+
 </p>
 
 <p style="text-align: center;"> 
