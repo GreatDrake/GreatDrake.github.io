@@ -29,7 +29,7 @@ I have a background in competitive programming, I participated in <a href="https
 
 * **gfnx: Fast and Scalable Library for Generative Flow Networks in JAX** \
 Daniil Tiapkin, Artem Agarkov, <ins>Nikita Morozov</ins>, Ian Maksimov, Askar Tsyganov, Timofei Gritsaev, Sergey Samsonov \
-[arXiv](https://arxiv.org/abs/2511.16592) / [code](https://github.com/d-tiapkin/gfnx) \
+[arXiv](https://arxiv.org/abs/2511.16592) / [code](https://github.com/d-tiapkin/gfnx) / [docs](https://gfnx.readthedocs.io/en/latest/) \
 Preprint 2025
 
 * **Adaptive Destruction Processes for Diffusion Samplers** \
