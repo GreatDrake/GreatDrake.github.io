@@ -47,7 +47,7 @@ NeurIPS 2025 [Workshop on Frontiers in Probabilistic Inference](https://fpineuri
 ICML 2025
 
 * **Tissue Reassembly with Generative AI** \
-Tingyang Yu, Chanakya Ekbote, <ins>Nikita Morozov</ins>, Jiashuo Fan, Pascal Frossard, Stéphane d'Ascoli, Maria Brbić \
+Tingyang Yu, Chanakya Ekbote, <ins>Nikita Morozov</ins>, Antonio Herrera, Jiashuo Fan, Albert Dominguez Mantes, Salvatore Novello, Hilal Lashuel, Pascal Frossard, Stéphane d’Ascoli, Gioele La Manno, Maria Brbić \
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.13.638045) / [project](https://brbiclab.epfl.ch/projects/LUNA/) / [code](https://github.com/mlbio-epfl/LUNA) \
 ICML 2025 [Workshop on Generative AI and Biology](https://genbio-workshop.github.io/2025/) <span style="color:brown">(Spotlight)</span>
 
