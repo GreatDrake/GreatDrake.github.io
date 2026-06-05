@@ -23,10 +23,15 @@ I have a background in competitive programming, I participated in <a href="https
 
 ## Publications
 
+* **Your GFlowNet Secretly Learns an Optimal Transport Plan** \
+Ian Maksimov, <ins>Nikita Morozov</ins>, Denis Belomestny, Sergey Samsonov \
+[arXiv](https://arxiv.org/abs/2606.06272) / code TBA \
+ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2026.github.io/)
+
 * **Learning Shortest Paths with Generative Flow Networks** \
 <ins>Nikita Morozov</ins>, Ian Maksimov, Daniil Tiapkin, Sergey Samsonov \
 [arXiv](https://arxiv.org/abs/2603.01786) / [code](https://github.com/GreatDrake/gfn-pathfinding) \
-Preprint 2026
+ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2026.github.io/)
 
 * **gfnx: Fast and Scalable Library for Generative Flow Networks in JAX** \
 Daniil Tiapkin, Artem Agarkov, <ins>Nikita Morozov</ins>, Ian Maksimov, Askar Tsyganov, Timofei Gritsaev, Sergey Samsonov \
