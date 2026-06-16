@@ -25,12 +25,12 @@ I have a background in competitive programming, I participated in <a href="https
 
 * **Proximal Policy Optimization for Amortized Discrete Sampling** \
 Anna Zykova-Myzina, Timofei Gritsaev, Daniil Tiapkin, <ins>Nikita Morozov</ins> \
-[arXiv](https://greatdrake.github.io/) / [code](https://github.com/tgritsaev/ent-ppo) \
+[arXiv](https://arxiv.org/abs/2606.15793) / [code](https://github.com/tgritsaev/ent-ppo) \
 ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2026.github.io/)
 
 * **Stop the Sampler! Classifier-Based Adaptive Stopping for Sampling Kernels** \
 Kirill Korolev, <ins>Nikita Morozov</ins>, Stepan Pavlenko, Esmeralda S. Whitammer, Sergey Samsonov \
-[arXiv](https://greatdrake.github.io/) / [code](https://github.com/kkorolev1/stop-the-sampler) \
+[arXiv](https://arxiv.org/abs/2606.16073) / [code](https://github.com/kkorolev1/stop-the-sampler) \
 ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2026.github.io/)
 
 * **Your GFlowNet Secretly Learns an Optimal Transport Plan** \
