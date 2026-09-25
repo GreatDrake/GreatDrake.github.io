@@ -32,7 +32,7 @@ ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling]
 * **gfnx: Fast and Scalable Library for Generative Flow Networks in JAX** \
 Daniil Tiapkin, Artem Agarkov, <ins>Nikita Morozov</ins>, Ian Maksimov, Askar Tsyganov, Timofei Gritsaev, Sergey Samsonov \
 [arXiv](https://arxiv.org/abs/2511.16592) / [code](https://github.com/d-tiapkin/gfnx) / [docs](https://gfnx.readthedocs.io/en/latest/) \
-NeurIPS 2026 Evaluations & Datasets Track
+NeurIPS 2026 Evaluations & Datasets
 
 * **Proximal Policy Optimization for Amortized Discrete Sampling** \
 Anna Zykova-Myzina, Timofei Gritsaev, Daniil Tiapkin, <ins>Nikita Morozov</ins> \
