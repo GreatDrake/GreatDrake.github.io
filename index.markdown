@@ -23,14 +23,20 @@ I have a background in competitive programming, I participated in <a href="https
 
 ## Publications
 
-* **Proximal Policy Optimization for Amortized Discrete Sampling** \
-Anna Zykova-Myzina, Timofei Gritsaev, Daniil Tiapkin, <ins>Nikita Morozov</ins> \
-[arXiv](https://arxiv.org/abs/2606.15793) / [code](https://github.com/tgritsaev/ent-ppo) \
-ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2026.github.io/)
-
 * **Stop the Sampler! Classifier-Based Adaptive Stopping for Sampling Kernels** \
 Kirill Korolev, <ins>Nikita Morozov</ins>, Stepan Pavlenko, Esmeralda S. Whitammer, Sergey Samsonov \
 [arXiv](https://arxiv.org/abs/2606.16073) / [code](https://github.com/kkorolev1/stop-the-sampler) \
+NeurIPS 2026 \
+ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2026.github.io/)
+
+* **gfnx: Fast and Scalable Library for Generative Flow Networks in JAX** \
+Daniil Tiapkin, Artem Agarkov, <ins>Nikita Morozov</ins>, Ian Maksimov, Askar Tsyganov, Timofei Gritsaev, Sergey Samsonov \
+[arXiv](https://arxiv.org/abs/2511.16592) / [code](https://github.com/d-tiapkin/gfnx) / [docs](https://gfnx.readthedocs.io/en/latest/) \
+NeurIPS 2026 Evaluations & Datasets Track
+
+* **Proximal Policy Optimization for Amortized Discrete Sampling** \
+Anna Zykova-Myzina, Timofei Gritsaev, Daniil Tiapkin, <ins>Nikita Morozov</ins> \
+[arXiv](https://arxiv.org/abs/2606.15793) / [code](https://github.com/tgritsaev/ent-ppo) \
 ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2026.github.io/)
 
 * **Your GFlowNet Secretly Learns an Optimal Transport Plan** \
@@ -42,11 +48,6 @@ ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling]
 <ins>Nikita Morozov</ins>, Ian Maksimov, Daniil Tiapkin, Sergey Samsonov \
 [arXiv](https://arxiv.org/abs/2603.01786) / [code](https://github.com/GreatDrake/gfn-pathfinding) \
 ICML 2026 [Workshop on Structured Probabilistic Inference & Generative Modeling](https://spigmworkshop2026.github.io/)
-
-* **gfnx: Fast and Scalable Library for Generative Flow Networks in JAX** \
-Daniil Tiapkin, Artem Agarkov, <ins>Nikita Morozov</ins>, Ian Maksimov, Askar Tsyganov, Timofei Gritsaev, Sergey Samsonov \
-[arXiv](https://arxiv.org/abs/2511.16592) / [code](https://github.com/d-tiapkin/gfnx) / [docs](https://gfnx.readthedocs.io/en/latest/) \
-Preprint 2025
 
 * **Adaptive Destruction Processes for Diffusion Samplers** \
 Timofei Gritsaev, <ins>Nikita Morozov</ins>, Kirill Tamogashev, Daniil Tiapkin, Sergey Samsonov, Alexey Naumov, Dmitry Vetrov, Nikolay Malkin \
