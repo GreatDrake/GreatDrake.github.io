@@ -23,6 +23,11 @@ I have a background in competitive programming, I participated in <a href="https
 
 ## Publications
 
+* **Numerical Integration on Bounded Domains via Learned Reflected Diffusions** \
+Kirill Korolev, Artur Goldman, Timofei Gritsaev, Tigran Ramazyan, <ins>Nikita Morozov</ins> \
+[arXiv](https://openreview.net/forum?id=prchfE2XE5) / [code](https://github.com/kkorolev1/reflected-diffusion-samplers) \
+NeurIPS 2026 [Workshop on AI for Stochastic Dynamics](https://eethanshi.github.io/stochastic-dynamics-2026/) <span style="color:brown">(Oral)</span>
+
 * **Stop the Sampler! Classifier-Based Adaptive Stopping for Sampling Kernels** \
 Kirill Korolev, <ins>Nikita Morozov</ins>, Stepan Pavlenko, Esmeralda S. Whitammer, Sergey Samsonov \
 [arXiv](https://arxiv.org/abs/2606.16073) / [code](https://github.com/kkorolev1/stop-the-sampler) \
